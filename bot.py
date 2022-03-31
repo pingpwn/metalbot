@@ -23,4 +23,4 @@ async def on_message(message):
         if message.content.contains('$is the bot online','bot are you online','is bot online'):
         await message.channel.send('yas')
 
-client.run('your token here')
+client.run('OTU5MTQ4MTMyNTQzOTIyMTk3.YkXqTg.W5dY777aECWFCk3PGIJUIwuO2Jg')
