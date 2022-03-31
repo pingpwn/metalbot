@@ -1,2 +1,2 @@
-# metalbot
-Just a discord bot for my metalhead friends
+# Metalbot
+A discord bot for my metalhead friends 🤘
