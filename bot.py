@@ -11,7 +11,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-        
+
     if message.author == client.user:
             return
     elif message.author != client.user:
@@ -29,7 +29,9 @@ async def on_message(message):
         if "who's right" in message.content.lower():
             member = random.choice(message.guild.members)
             await message.channel.send(member.mention + ' is right')
-       
+        if "bot who is hannah" in message.content.lower():
+            await message.channel.send('check your closet')
+
         if "bot" and "good metal artist" in message.content.lower():
             await message.channel.send('idk, i\'d pick ' + random.choice(open('artists.txt').readlines()))
         if "how does a computer work" in message.content.lower():
@@ -38,8 +40,8 @@ async def on_message(message):
         if "bot work" in message.content.lower():
             await message.channel.send('shh... it\'s a secret ;\)')
 
-        if "bot" and "trans people" in message.content.lower():
-            await message.channel.send('Trans woman \( noun \): A man who was so upset about his small penis he decided he was gonna be bullied less by switching genders')
+        if "bot" and "how" and "doin" in message.content.lower():
+            await message.channel.send(file=discord.File('how-you-doin.gif'))
 
         if dice == True:
            if "hello bot" in message.content.lower():
