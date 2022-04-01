@@ -3,7 +3,7 @@ A discord bot for my weird metalhead friends
 
 Honestly I didn't even check if there's a metalbot already if there is then f*ck you.
 
-(Oh almost forgot, this bot is filled with profanity and sexual innuendos (as well as bad humor) so continue with caution.)
+(Oh almost forgot, this bot is filled with profanity and sexual innuendos, as well as bad humor, so continue with caution.)
 
 This is just a shitty robot that is supposed to make my friends laugh and force me into learning more python. LETS SEE WAT IT DOES
 
