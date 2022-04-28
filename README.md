@@ -18,4 +18,3 @@ Ideas in the making:
 + [ ] Make it scream in the chat at random times
 + [ ] Suggest metal songs
 + [ ] Rickroll my friends 10% of the time they ask for a metal song
-+ 
